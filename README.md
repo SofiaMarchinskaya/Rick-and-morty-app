@@ -1,6 +1,7 @@
 # ram
 
 Rick and Morty app
+Data from https://rickandmortyapi.com/
 
 ## Getting Started
 
